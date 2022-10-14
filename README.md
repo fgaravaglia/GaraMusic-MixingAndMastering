@@ -22,5 +22,10 @@ My goal is to tell you about how to set up the MixBus chain and how to create a 
 Of course it doesn't mean that they can't be replaced by paid plugins, just that doing a good job often doesn't matter the "gear" he is using, but only our ears and musical taste.
 It is also important to emphasize that the information I report in this e-book is not a diktat or a prepackaged recipe: they are more than anything else initial rules for setting the job that work well for me, but which must always be adjusted, perfect and adapt on the single song: always listen with your ears!
 
+# Content
+in the folder _Ebook_ you find the released materials:
+- the free ebook about mixing and mastering templates
+- list of VST and plugins to use in the chains
+
 # What's New - 1.2
 - Appendix Home Studio: how to set up routing, mixing and mastering InTheBox with headphones only, informations about headphone types
