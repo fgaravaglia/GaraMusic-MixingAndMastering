@@ -29,3 +29,5 @@ in the folder _Ebook_ you find the released materials:
 
 # What's New - 1.2
 - Appendix Home Studio: how to set up routing, mixing and mastering InTheBox with headphones only, informations about headphone types
+- Explanation of Gate usage
+- Updates on Mixing Chain
