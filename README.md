@@ -1,4 +1,6 @@
 # GaraMusic-MixingAndMastering
+![image info](./resources/Mixer_icons.128.png)
+
 Repository to share e-book about techniques of mixing and Mastering music
 
 # Preface
