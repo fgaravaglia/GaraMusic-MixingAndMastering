@@ -2,6 +2,45 @@
 ![image info](./resources/Mixer_icons.128.png)
 
 Repository to share e-book about techniques of mixing and Mastering music
+Follow [My Podcast about Home Studio](https://anchor.fm/francesco-garavagli)
+
+<div>
+    <div style="float: left">
+        <div  style="float: left">
+            <a href="https://anchor.fm/francesco-garavagli" target="_blank"
+                rel="noopener noreferrer">
+                <div>
+                    <img src="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/anchor.png"
+                        srcset="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/anchor.png 1x, https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/google_podcasts@2x.png 2x"
+                        alt="Anchor Logo" height="28" width="28">
+                    <p>Anchor</p>
+                </div>
+            </a>
+        </div>
+        <div  style="float: left">
+            <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kYTI5Y2ExOC9wb2RjYXN0L3Jzcw"
+                target="_blank" rel="noopener noreferrer">
+                <div>
+                    <img src="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/google_podcasts.png"
+                        srcset="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/google_podcasts.png 1x, https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/google_podcasts@2x.png 2x"
+                        alt="Google Podcasts Logo" height="28" width="28">
+                    <p>Google Podcasts</p>
+                </div>
+            </a>
+        </div>
+        <div  style="float: left">
+            <a href="https://open.spotify.com/show/0f6i287MoPN5qagfEoAGH2" target="_blank" rel="noopener noreferrer"
+                class="css-1z0xd9g">
+                <div><img src="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/spotify.png"
+                        srcset="https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/spotify.png 1x, https://d12xoj7p9moygp.cloudfront.net/images/podcast/logo-square/006/spotify@2x.png 2x"
+                        alt="Spotify Logo" height="28" width="28">
+                    <p>Spotify</p>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+
 
 # Preface
 If you are passionate about music and are reading this e-book, I guess you will surely have some reference figures or masters, people you follow and admire for how they produce and how their works sound.
