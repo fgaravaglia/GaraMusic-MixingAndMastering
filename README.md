@@ -29,7 +29,18 @@ in the folder _Ebook_ you find the released materials:
 - the free ebook about mixing and mastering templates
 - list of VST and plugins to use in the chains
 
-# What's New - 1.2
+# What's New
+
+## 1.2
 - Appendix Home Studio: how to set up routing, mixing and mastering InTheBox with headphones only, informations about headphone types
 - Explanation of Gate usage
 - Updates on Mixing Chain
+
+## 1.3
+- Details added on MixBus chapter about volume normalization and Stereo Width
+- Redesign of bus chains:
+-- Voice
+-- Bass and Drums
+- chapter on Compressor competely reviewed
+- details added on several plugins
+
